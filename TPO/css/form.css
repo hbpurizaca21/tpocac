@@ -1,0 +1,12 @@
+.setAttribute {
+    width:300px;
+    margin: 0px auto
+}
+
+button {
+    width:100px;
+    margin: 10px 0px;
+    padding: 10px;
+    background:#0fb641;color:#0e0658;
+    border:solid 1px #000;
+}
